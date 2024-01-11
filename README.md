@@ -4,7 +4,7 @@
   </a>
   <h3 align="center">MATLAB for Machine Learning #mathworks</h3>
   <p align="center">
-    Variable • Files • Vector & Matrices • Array • Function • Plotting
+    Variable • Files • Vector & Matrices • Array • Function • Plottings
   </p>
 </p>
 
